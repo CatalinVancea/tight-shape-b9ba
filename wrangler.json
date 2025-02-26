@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "tight-shape-b9ba",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c3fc3b0b-c1a4-434b-9b58-a0ce4f28242e",
+      "database_name": "shy-poetry-ca19-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
